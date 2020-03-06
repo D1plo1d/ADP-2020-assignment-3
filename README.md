@@ -1,5 +1,5 @@
 ## ADP Assignment 3: Full Stack GraphQL
-Goal: Create a working web app that allows users to log in and create content using GraphQL.
+**Goal:** Create a working web app that allows users to log in and create content using GraphQL.
 
 ## Requirements/Grading Criteria
 
