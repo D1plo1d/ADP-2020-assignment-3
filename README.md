@@ -4,7 +4,9 @@ Goal: Create a working web app that allows users to log in and create content us
 ## Requirements/Grading Criteria
 
 ### Code Quality
-* You must use git version control and semantic comits. Commit often* Code must be properly formatted. To get full points your project should eslint correctly with https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb* React router, react form hooks and material ui should be used to continue practicing the skills we learned in React week
+* You must use git version control and semantic comits. Commit often.
+* Code must be properly formatted. To get full points your project should eslint correctly with https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
+* React router, react form hooks and material ui should be used to continue practicing the skills we learned in React week
 
 ### Security
 * Use BCrypt to protect users' passwords* Prevent SQL injections by using the dollar sign SQL variables syntax
