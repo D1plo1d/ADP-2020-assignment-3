@@ -10,7 +10,7 @@
 
 ### Security
 * Use BCrypt to protect users' passwords* Prevent SQL injections by using the dollar sign SQL variables syntax
-* Use CSRF tokens to protect your users from identity + data theft and session hijacking
+* Use JWT tokens to protect your users from identity + data theft and session hijacking
 * Protect your users from cross site scripting attacks by using React
 
 ### Features
